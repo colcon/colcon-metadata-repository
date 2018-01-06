@@ -1,0 +1,7 @@
+{
+    "names": {
+        "Gazebo": {
+            "hooks": ["share/gazebo/setup.sh"]
+        }
+    }
+}
