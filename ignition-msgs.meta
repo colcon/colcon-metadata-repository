@@ -1,0 +1,7 @@
+{
+    "names": {
+        "ignition-msgs0": {
+            "dependencies": ["ignition-math3"]
+        }
+    }
+}

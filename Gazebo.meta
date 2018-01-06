@@ -1,0 +1,8 @@
+{
+    "names": {
+        "Gazebo": {
+            "dependencies": ["ignition-common0", "ignition-transport"],
+            "hooks": ["share/gazebo/setup.sh"]
+        }
+    }
+}

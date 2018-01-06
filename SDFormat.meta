@@ -1,0 +1,7 @@
+{
+    "names": {
+        "SDFormat": {
+            "dependencies": ["ignition-math3"]
+        }
+    }
+}

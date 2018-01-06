@@ -1,1 +1,4 @@
 metadata:
+  - Gazebo.meta
+  - ignition-msgs.meta
+  - SDFormat.meta
