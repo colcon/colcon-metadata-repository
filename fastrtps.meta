@@ -2,7 +2,6 @@
     "names": {
         "fastrtps": {
             "cmake-args": ["-DSECURITY=ON"],
-            "dependencies": ["fastcdr"],
         }
     }
 }
