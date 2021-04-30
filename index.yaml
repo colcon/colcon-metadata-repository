@@ -1,3 +1,4 @@
 metadata:
   - fastrtps.meta
   - Gazebo.meta
+  - ignition-default.meta

@@ -1,0 +1,7 @@
+{
+    "paths": {
+        "src/ign-rendering": {
+            "cmake-args": ["-DSKIP_optix=true"]
+        }
+    }
+}
