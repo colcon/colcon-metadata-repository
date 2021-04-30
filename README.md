@@ -32,5 +32,5 @@ For each contribution perform the following steps:
 * Create or modify one or multiple files ending with `.meta`.
 * Add any new files in alphabetical order to the `index.yaml` file.
 * Run the `lint.py` script to ensure that the changes follow the recommended
-  yaml style.
+  yaml style (you'll need to install [yamllint](https://yamllint.readthedocs.io/en/stable/index.html) in order to run `lint.py`)
 * Create a pull request with the changes.
