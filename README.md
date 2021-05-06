@@ -33,4 +33,7 @@ For each contribution perform the following steps:
 * Add any new files in alphabetical order to the `index.yaml` file.
 * Run the `lint.py` script to ensure that the changes follow the recommended
   yaml style.
+  
+  * The script requires [yamllint](https://yamllint.readthedocs.io/en/stable/index.html) to be installed.
+
 * Create a pull request with the changes.
