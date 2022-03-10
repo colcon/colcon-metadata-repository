@@ -1,0 +1,7 @@
+{
+    "names": {
+        "fastcdr": {
+            "cmake-args": ["-DAPPEND_PROJECT_NAME_TO_INCLUDEDIR=ON"]
+        }
+    }
+}

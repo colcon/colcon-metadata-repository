@@ -1,3 +1,4 @@
 metadata:
+  - fastcdr.meta
   - fastrtps.meta
   - Gazebo.meta
