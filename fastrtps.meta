@@ -3,5 +3,8 @@
         "fastrtps": {
             "cmake-args": ["-DSECURITY=ON"]
         }
+        "fastdds": {
+            "cmake-args": ["-DSECURITY=ON"]
+        }
     }
 }
